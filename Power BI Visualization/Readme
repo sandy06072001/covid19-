@@ -1,0 +1,9 @@
+/*  to access our dataset which is used in power bi visualization, 
+- click the drive link - 
+https://docs.google.com/spreadsheets/d/1kv0854EmK67nkt7HSCcAegXu84m1fYnl/edit?usp=sharing&ouid=107220459913765811254&rtpof=true&sd=true */
+
+we have 7 files in the folder named (Power BI Visualization)
+- 2 jpg files which have background themes that was used in our dashboard 
+- 3 png files which are our dashboards have visualization of covid 19
+- 1 readme file (the one which you are reading right now)
+- 1 pbix file which contains Power BI visualisation and datasets 
